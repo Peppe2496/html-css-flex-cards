@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.title-text{
+   color: #E53170;
+   font-family: 'Fredoka', sans-serif;
+   font-size: 50px;
+   }
+
+   .ta-center{
+    text-align: center;
+   }
+
+   .p-20{
+    padding: 20px;
+   }
+
+   .m-20{
+    margin: 20px;
+   }
+
+   .font-size{
+     font-size: 20px;
+   }
+   .main-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    height: 500px;
+    flex-wrap: wrap;
+    }
+
+   .container{
+    display: flex;
+    background-color: black;
+    height: 100px;
+    width: 400px;
+    margin: 20px;
+    box-shadow: 5px 5px 5px 5px grey;
+    }
+
+    .text-color{
+        color: white;
+    }
+
+    .mail-color{
+        color: #0093E7;
+    }
+
+    .description{
+        flex-direction: column;
+        padding: 5px;
+        margin: 5px;
+        font-size: 20px;
+        
+    }    
+    
